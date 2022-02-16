@@ -1,0 +1,1 @@
+https://github.com/ddatunashvili/flask_auto_association/releases/tag/v1.0.1
